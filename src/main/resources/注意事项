@@ -1,0 +1,10 @@
+webapp/images/product下的商品自行删除掉，因为我不放图片在里面;
+改数据库在jdbc.properties里面，怎么改太简单了，不用多说吧;
+数据库脚本为biyesheji.sql;
+后台超级管理员：
+name:小白
+password:adminadmin
+有了这个账号登上去后，就能看所有功能了，后台管理员的密码是加密放入数据库的，看不了
+前台客户登陆请查看customer里面的记录，我测试前台用的：
+name:byh
+password:12345
